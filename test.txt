@@ -7,3 +7,5 @@ addding staging changes
 moire changes
 
 apply final fix
+
+v2.0
