@@ -1,0 +1,28 @@
+---
+people:
+- Id: 1
+  FirstName: Shantanu
+  LastName: Khan
+  Place: Downtown
+...
+---
+people:
+- Id: 2
+  FirstName: Spider
+  LastName: Man
+  Place: New York
+...
+---
+people:
+- Id: 3
+  FirstName: Super
+  LastName: Man
+  Place: Boston
+...
+---
+people:
+- Id: 4
+  FirstName: Bat
+  LastName: Man
+  Place: Gotham
+...
