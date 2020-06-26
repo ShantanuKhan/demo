@@ -9,3 +9,5 @@ for doc in documents:
     print("First Name:", doc['people'][0]['FirstName'])
     print("Last Name:", doc['people'][0]['LastName'])
     print("City of Action:", doc['people'][0]['Place'])
+
+print("---")
