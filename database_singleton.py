@@ -26,4 +26,4 @@ print(s)
 # s = database() //invalid object creation
 # print(s)
 
-print("Singleton class example master update")
+# print("Singleton class example master update")
